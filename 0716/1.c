@@ -15,13 +15,13 @@ int main() {
 
 	for(int i=0; i<=100; i++) {
 		if (array[i] % 2 == 0) {
-			//Â¦¼ö¸¸ Ãâ·Â
+			//Ã‚Â¦Â¼Ã¶Â¸Â¸ ÃƒÃ¢Â·Ã‚
 			printf("array[%d]=%d\n", i, array[i]);
 		}
 	}
 	
 
-	printf("\n\n Æ÷ÀÎÅÍ½Ä\n");
+	printf("\n\n Ã†Ã·Ã€ÃŽÃ…ÃÂ½Ã„\n");
 	int* parray = array;
 
 	for (int i = 0; i <= 100; i++) {
