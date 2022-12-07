@@ -4,7 +4,7 @@ int main() {
 	int TRUE = 1;
 	int FALSE = 0;
 	int ret = TRUE && FALSE;
-	printf("³í¸® AND\n");
+	printf("Â³Ã­Â¸Â® AND\n");
 	printf("TRUE&&FALSE=%d\n",ret);
 
 	ret = FALSE && TRUE;
@@ -16,7 +16,7 @@ int main() {
 	ret = TRUE && TRUE;
 	printf("TRUE&&TRUE=%d\n", ret);
 
-	printf("\n³í¸® OR\n");
+	printf("\nÂ³Ã­Â¸Â® OR\n");
 	ret = TRUE || TRUE;
 	printf("TRUE||TRUE=%d\n", ret);
 
@@ -29,7 +29,7 @@ int main() {
 	ret = TRUE || FALSE;
 	printf("TRUE||FALSE=%d\n", ret);
 
-	printf("\n³í¸® NOT\n");
+	printf("\nÂ³Ã­Â¸Â® NOT\n");
 	ret = !TRUE;
 	printf("!TRUE=%d\n", ret);
 
