@@ -9,7 +9,7 @@ int main() {
 	float fret = a / b;
 	printf("%d/%d=%f\n", a, b, fret);
 
-	//(float)Çüº¯È¯ ¿¬»êÀÚ
+	//(float)Ã‡Ã¼ÂºÂ¯ÃˆÂ¯ Â¿Â¬Â»ÃªÃ€Ãš
 	fret = a / (float)b;
 	printf("%d/%d=%f\n", a, b, fret);
 	
