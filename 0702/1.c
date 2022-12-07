@@ -1,20 +1,20 @@
-#include <stdio.h> //Çì´õÆÄÀÏ
+#include <stdio.h> //í—¤ë”íŒŒì¼
 
-int main() {    //¸ŞÀÎÇÔ¼ö
-	// Çü½ÄÁöÁ¤¹®ÀÚ¿­
+int main() {    //ë©”ì¸í•¨ìˆ˜
+	// í˜•ì‹ì§€ì •ë¬¸ìì—´
 	/*int a = 123;
 
-	printf("a=%d\n", a); // Á¤¼öÀüÃ¼
-	printf("a=%u\n", a); // 0,¾çÀÇ Á¤¼ö
+	printf("a=%d\n", a); // ì •ìˆ˜ì „ì²´
+	printf("a=%u\n", a); // 0,ì–‘ì˜ ì •ìˆ˜
 
 	float b = 1.234f;
-	printf("b=%f\n", b); // ½Ç¼ö Ãâ·Â
+	printf("b=%f\n", b); // ì‹¤ìˆ˜ ì¶œë ¥
 
 	double d = 2.45;
 	printf("d=%lf\n", d);
 	
 	char c = 65;
-	printf("c=%c\n", c); // ¹®ÀÚ Ãâ·Â
+	printf("c=%c\n", c); // ë¬¸ì ì¶œë ¥
 	
 	*/
 	short a= -32767;
